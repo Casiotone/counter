@@ -9,3 +9,4 @@ class Counter:
 
     def report(self):
         return f"Counted to {self.count} so far."
+    
